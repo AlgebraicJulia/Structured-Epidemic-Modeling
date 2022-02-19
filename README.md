@@ -1,1 +1,1 @@
-# Structured-Epideming-Modeling
+# Structured Epidemic Modeling
