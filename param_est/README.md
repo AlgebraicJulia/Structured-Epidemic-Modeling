@@ -10,8 +10,7 @@ Then execute the example by running:
 julia --project param_est.jl
 ```
 
-This file will generate the figures included in the Royal Society paper, as
-well as a visualization of the data.
+This file will generate the figures included in Section 4 of our forthcoming preprint, *An Algebraic Framework for Structured Epidemic Modeling*, as well as a visualization of the data.
 
 ## Acknowledgements
 
